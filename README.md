@@ -1,16 +1,24 @@
-## Hi there 👋
+# Moin, ich bin KEW1983! 👋
 
-<!--
-**KEW1983/KEW1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!IMPORTANT]
+> Ich verbinde die Welten von hochspezialisierter Drohnentechnik, professioneller IT-Qualitätssicherung und Cybersicherheit.
 
-Here are some ideas to get you started:
+## 🛸 Drohnen-Expertise (STS & SORA)
+```diff
++ EU-Kompetenznachweis A1/A3 vorhanden
++ Fernpiloten-Zeugnis A2 vorhanden
+! STS-01/02 & EU-Betriebsgenehmigungen (In Progress / In Arbeit)
+```
+* **Fokus:** STS-01/02 & EU-Betriebsgenehmigungen für komplexe Missionen (KRITIS & Werkschutz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 IT, Software-Testing & Security (Aktueller Fokus)
+```json
+
+  "Grundlagen": "Linux, CLI & Versionsverwaltung mit Git/GitHub",
+  "Qualitätssicherung": "Software-Testing / QA (ISTQB) & Testautomatisierung mit Python",
+  "Sicherheit": "IT-Security Grundlagen (Web-Security & OWASP Top 10)"
+
+```
+
+> [!NOTE]
+> 📫 Mein Ziel ist das perfekte Expertenprofil an der Schnittstelle von modernem Drohnenbetrieb, IT-Infrastruktur und Security!
